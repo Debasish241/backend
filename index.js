@@ -10,6 +10,9 @@ app.get('/',(req, res) => {
 app.get('/login',(req,res)=>{
     res.send('Login Page');
 })
+app.get('/loginn',(req,res)=>{
+    res.send('Login Page');
+})
 
 app.get("/signup",(req,res)=>{
     res.send(`<h1>Sign Up</h1>`);
