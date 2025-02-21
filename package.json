@@ -1,0 +1,15 @@
+{
+  "name": "newbackend",
+  "version": "1.0.0",
+  "description": "learning backend",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "author": "debasish",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
