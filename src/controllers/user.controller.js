@@ -75,7 +75,6 @@ const registerUser = asyncHandler(async(req,res)=>{
 
 })
 
-
 //hitessh's code checking if i have any error in my code or not.
 // const registerUser = asyncHandler( async (req, res) => {
 
@@ -140,7 +139,5 @@ const registerUser = asyncHandler(async(req,res)=>{
 //     )
 
 // } )
-
-
 
 export {registerUser}
